@@ -5,4 +5,4 @@ This repository contains the second question ```Visualizing Swarms``` of the cou
 * Particle Systems
 * Ant Clustering
 
-The simulation should be able to change and set various parameter values and see their impacts on the algorithm execution and its behaviour. We choose to visualize a ```Particle System``` for our project, for which, the YouTube link can be found here: (have to add)
+The simulation should be able to change and set various parameter values and see their impacts on the algorithm execution and its behaviour. We choose to visualize a ```Particle System``` for our project, for which, the YouTube link can be found here: https://youtu.be/AlRVvw7X5Yc
